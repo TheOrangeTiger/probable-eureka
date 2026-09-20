@@ -1,0 +1,1376 @@
+{
+  "scene_order": [
+    {
+      "name": "Camera"
+    },
+    {
+      "name": "Intro Slide"
+    },
+    {
+      "name": "scn_Acknowledgment of the Land\nTrinity Lutheran Church acknowledges that we live and worship on the traditional territories of the Indigenous peoples of the Treaty 6 region and the Métis Nation of Alberta, Region 4. Together we call upon all of our collective, honoured traditions and spirits to work in continuing right relationship that we may create a more vibrant, healthy community for today and future generations."
+    },
+    {
+      "name": "scn_Greeting\nP: \tThe grace of our Lord Jesus Christ, the love of God, and the communion of the Holy Spirit be with you all.\nC: \tAnd also with you."
+    },
+    {
+      "name": "scn_Gathering Song: #731, Earth and All Stars (verses 1, 2, &5)"
+    },
+    {
+      "name": "scn_Prayer of the Day\nP: Glorious God,\nC: The whole of creation proclaims your marvellous work. Increase in us a capacity to wonder and delight in it, that heaven’s praise may echo in our hearts and our lives be spent as good stewards of the earth. Through Jesus Christ our Lord. Amen."
+    },
+    {
+      "name": "scn_Joint Choirs: Wasser des Lebens/O Living Water – Rosalie Vissing"
+    },
+    {
+      "name": "scn_Confession and Forgiveness\nP: O God of compassion,\nC: We come before you with our brokenness and our wounds for all to see. We try to do good, but sometimes fail. We choose to do evil, and sometimes succeed. Keep your promise to forgive us. Without you, we are lost in our brokenness."
+    },
+    {
+      "name": "scn_Kyrie: I Desire Mercy (found in your insert)"
+    },
+    {
+      "name": "scn_Assurance of Forgiveness"
+    },
+    {
+      "name": "scn_Gloria: Oxyrhynchus Hymn (found in your insert)"
+    },
+    {
+      "name": "scn_Family Time – Blessing of the Backpacks and Briefcases"
+    },
+    {
+      "name": "scn_German Reading: Exodus 16:9-15 9 Then Moses said to Aaron, “Say to the whole congregation of the Israelites: ‘Draw near to the Lord, for he has heard your complaining.’ ” 10 And as Aaron spoke to the whole congregation of the Israelites, they looked toward the wilderness, and the glory of the Lord appeared in the cloud. 11 The Lord spoke to Moses, 12 “I have heard the complaining of the Israelites; say to them, ‘At twilight you shall eat meat, and in the morning you shall have your fill of bread; then you shall know that I am the Lord your God.’ ” 13 In the evening quails came up and covered the camp, and in the morning there was a layer of dew around the camp. 14 When the layer of dew lifted, there on the surface of the wilderness was a fine flaky substance, as fine as frost on the ground. 15 When the Israelites saw it, they said to one another, “What is it?” For they did not know what it was. Moses said to them, “It is the bread that the Lord has given you to eat."
+    },
+    {
+      "name": "scn_Psalm: #836, Joyful, Joyful We Adore Thee"
+    },
+    {
+      "name": "scn_English Reading: Philipper 1:27-30 27 Nur führt euer Leben würdig des Evangeliums von Christus, damit ich, ob ich komme und euch sehe oder abwesend bin, von euch höre, dass ihr fest steht in einem Geist und einmütig miteinander kämpft für den Glauben des Evangeliums 28 und euch in keiner Weise einschüchtern lasst von den Widersachern, was für sie ein Anzeichen des Verderbens, für euch aber der Errettung ist, und zwar von Gott. 29 Denn euch wurde, was Christus betrifft, die Gnade verliehen, nicht nur an ihn zu glauben, sondern auch um seinetwillen zu leiden,30 sodass ihr denselben Kampf habt, den ihr an mir gesehen habt und jetzt von mir hört."
+    },
+    {
+      "name": "scn_Gospel Acclamation: The Living Word (found in your insert)"
+    },
+    {
+      "name": "scn_P: The Gospel according to Matthew 20:1-16\nC: Glory to you, O Lord"
+    },
+    {
+      "name": "scn_“For the kingdom of heaven is like a landowner who went out early in the morning to hire laborers for his vineyard. 2 After agreeing with the laborers for a denarius for the day, he sent them into his vineyard. 3 When he went out about nine o’clock, he saw others standing idle in the marketplace, 4 and he said to them, ‘You also go into the vineyard, and I will pay you whatever is right.’ So they went. 5 When he went out again about noon and about three o’clock, he did the same. 6 And about five o’clock he went out and found others standing around, and he said to them, ‘Why are you standing here idle all day?’ 7 They said to him, ‘Because no one has hired us.’ He said to them, ‘You also go into the vineyard.’ 8 When evening came, the owner of the vineyard said to his manager, ‘Call the laborers and give them their pay, beginning with the last and then going to the first.’ 9 When those hired about five o’clock came, each of them received a denarius. 10 Now when the first came, they thought they would receive more; but each of them also received a denarius. 11 And when they received it, they grumbled against the landowner, 12 saying, ‘These last worked only one hour, and you have made them equal to us who have borne the burden of the day and the scorching heat.’ 13 But he replied to one of them, ‘Friend, I am doing you no wrong; did you not agree with me for a denarius? 14 Take what belongs to you and go; I choose to give to this last the same as I give to you. 15 Am I not allowed to do what I choose with what belongs to me? Or are you envious because I am generous?’ 16 So the last will be first, and the first will be last.”"
+    },
+    {
+      "name": "scn_P: The gospel of the Lord\nC: Praise to you, O Christ"
+    },
+    {
+      "name": "scn_Sermon"
+    },
+    {
+      "name": "scn_Song of the Day: #735, Mothering God, You Gave Me Birth"
+    },
+    {
+      "name": "scn_Offertory Prayer"
+    },
+    {
+      "name": "scn_Apostle’s Creed (ELW, p. 127)\nI believe in God,\n                the Father almighty,\n                Creator of heaven and earth,\n                and in Jesus Christ, his only Son, our Lord,\n                who was conceived by the Holy Spirit,\n                born of the Virgin Mary,\n                suffered under Pontius Pilate,\n                was crucified, died and was buried;\n                he descended into hell;\n                on the third day he rose again from the dead;\n                he ascended into heaven,\n                and is seated at the right hand of God the Father almighty;\n                from there he will come to judge the living and the dead.\n                I believe in the Holy Spirit,\n                the holy catholic Church,\n                the communion of saints,\n                the forgiveness of sins,\n                the resurrection of the body,\n                and life everlasting.\n                Amen."
+    },
+    {
+      "name": "scn_P: Creator God\nC: Bring us new life"
+    },
+    {
+      "name": "scn_Sharing of the Peace"
+    },
+    {
+      "name": "scn_Communion\nP: \tThe Lord be with you\nC: \tAnd also with you.\nP: \tLift up your hearts.\nC: \tWe lift them to the Lord.\nP: \tLet us give our thanks and praise to the Lord our God.\nC: \tIt is right to give our thanks and praise."
+    },
+    {
+      "name": "scn_Sanctus\nP:\tWe have testified that this mystery of salvation found in Jesus Christ is for all, when we say . . .\nC: \tChrist has died, Christ is risen, Christ will come again."
+    },
+    {
+      "name": "scn_Lord’s Prayer\nOur Father, who art in heaven,\n                hallowed be thy Name,\n                thy kingdom come,\n                thy will be done,\n                on earth as it is in heaven.\n                Give us this day our daily bread.\n                And forgive us our trespasses,\n                as we forgive those\n                who trespass against us.\n                And lead us not into temptation,\n                but deliver us from evil.\n                For thine is the kingdom,\n                and the power, and the glory,\n                for ever and ever.\n                Amen."
+    },
+    {
+      "name": "scn_Communion Songs: English Choir: Around his Table – Judy Hunnicutt"
+    },
+    {
+      "name": "scn_#462, Now We Join in Celebration"
+    },
+    {
+      "name": "scn_Installation of Pr. David Melax"
+    },
+    {
+      "name": "scn_Announcements"
+    },
+    {
+      "name": "scn_Blessing"
+    },
+    {
+      "name": "scn_Sending Song: #823, Praise the Lord! O Heavens"
+    },
+    {
+      "name": "scn_Dismissal\nP: God is. Love does.\tC: In the footsteps of grace, we become. And we follow."
+    },
+    {
+      "name": "scn_Thank you to everyone who helped with our service this morning:\nPastor & Preacher: Pastor Erin Thomas; Pianist/Organist: Cherie Larson; Joint Choir Director: Agnes Melax; Ushers & Readers: Beverly Kavanaugh, LeDressay Family;\nTech Team: Tobias Mundel; Bulletins: Sorin Tomuta."
+    }
+  ],
+  "current_scene": "Camera",
+  "name": "Seventeenth Sunday after Pentecost, September 27th at 11 AM",
+  "sources": [
+    {
+      "name": "Camera",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "Intro Slide",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          {
+            "name": "License",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 25.0,
+              "y": 934.0
+            }
+          },
+          {
+            "name": "Service Name",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 75.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "License",
+      "id": "text_gdiplus",
+      "settings": {
+        "text": " Music and Images: OneLicense A - 730010 \nCCLI #3385233\n© Trinity Lutheran Church 2025",
+        "align": "center",
+        "color": 4281983947,
+        "bk_color": 4291523388,
+        "bk_opacity": 50,
+        "font": {
+          "size": 40
+        }
+      },
+      "filters": []
+    },
+    {
+      "name": "Service Name",
+      "id": "text_gdiplus",
+      "settings": {
+        "text": " Seventeenth Sunday after Pentecost, September 27th at 11 AM \n Trinity Lutheran Church - Edmonton ",
+        "align": "center",
+        "color": 4281983947,
+        "bk_color": 4291523388,
+        "bk_opacity": 50,
+        "font": {
+          "size": 55
+        }
+      },
+      "filters": []
+    },
+    {
+      "name": "scn_Acknowledgment of the Land\nTrinity Lutheran Church acknowledges that we live and worship on the traditional territories of the Indigenous peoples of the Treaty 6 region and the Métis Nation of Alberta, Region 4. Together we call upon all of our collective, honoured traditions and spirits to work in continuing right relationship that we may create a more vibrant, healthy community for today and future generations.",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          {
+            "name": "txt_Acknowledgment of the Land\nTrinity Lutheran Church acknowledges that we live and worship on the traditional territories of the Indigenous peoples of the Treaty 6 region and the Métis Nation of Alberta, Region 4. Together we call upon all of our collective, honoured traditions and spirits to work in continuing right relationship that we may create a more vibrant, healthy community for today and future generations.",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 20.0,
+              "y": 20.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "txt_Acknowledgment of the Land\nTrinity Lutheran Church acknowledges that we live and worship on the traditional territories of the Indigenous peoples of the Treaty 6 region and the Métis Nation of Alberta, Region 4. Together we call upon all of our collective, honoured traditions and spirits to work in continuing right relationship that we may create a more vibrant, healthy community for today and future generations.",
+      "id": "text_gdiplus",
+      "settings": {
+        "text": " Acknowledgment of the Land \n Trinity Lutheran Church acknowledges that \n we live and worship on the traditional \n territories of the Indigenous peoples of \n the Treaty 6 region and the Métis Nation \n of Alberta, Region 4. Together we call \n upon all of our collective, honoured \n traditions and spirits to work in \n continuing right relationship that we may \n create a more vibrant, healthy community \n for today and future generations. ",
+        "align": "left",
+        "color": 4278190080,
+        "bk_color": 4294967295,
+        "bk_opacity": 75,
+        "font": {
+          "size": 50
+        }
+      },
+      "filters": []
+    },
+    {
+      "name": "scn_Greeting\nP: \tThe grace of our Lord Jesus Christ, the love of God, and the communion of the Holy Spirit be with you all.\nC: \tAnd also with you.",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          {
+            "name": "txt_Greeting\nP: \tThe grace of our Lord Jesus Christ, the love of God, and the communion of the Holy Spirit be with you all.\nC: \tAnd also with you.",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 20.0,
+              "y": 20.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "txt_Greeting\nP: \tThe grace of our Lord Jesus Christ, the love of God, and the communion of the Holy Spirit be with you all.\nC: \tAnd also with you.",
+      "id": "text_gdiplus",
+      "settings": {
+        "text": " Greeting \n P: The grace of our Lord Jesus Christ, \n the love of God, and the communion of the \n Holy Spirit be with you all. \n C: And also with you. ",
+        "align": "left",
+        "color": 4278190080,
+        "bk_color": 4294967295,
+        "bk_opacity": 75,
+        "font": {
+          "size": 50
+        }
+      },
+      "filters": []
+    },
+    {
+      "name": "scn_Gathering Song: #731, Earth and All Stars (verses 1, 2, &5)",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "scn_Prayer of the Day\nP: Glorious God,\nC: The whole of creation proclaims your marvellous work. Increase in us a capacity to wonder and delight in it, that heaven’s praise may echo in our hearts and our lives be spent as good stewards of the earth. Through Jesus Christ our Lord. Amen.",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          {
+            "name": "txt_Prayer of the Day\nP: Glorious God,\nC: The whole of creation proclaims your marvellous work. Increase in us a capacity to wonder and delight in it, that heaven’s praise may echo in our hearts and our lives be spent as good stewards of the earth. Through Jesus Christ our Lord. Amen.",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 20.0,
+              "y": 20.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "txt_Prayer of the Day\nP: Glorious God,\nC: The whole of creation proclaims your marvellous work. Increase in us a capacity to wonder and delight in it, that heaven’s praise may echo in our hearts and our lives be spent as good stewards of the earth. Through Jesus Christ our Lord. Amen.",
+      "id": "text_gdiplus",
+      "settings": {
+        "text": " Prayer of the Day \n P: Glorious God, \n C: The whole of creation proclaims your \n marvellous work. Increase in us a \n capacity to wonder and delight in it, \n that heaven’s praise may echo in our \n hearts and our lives be spent as good \n stewards of the earth. Through Jesus \n Christ our Lord. Amen. ",
+        "align": "left",
+        "color": 4278190080,
+        "bk_color": 4294967295,
+        "bk_opacity": 75,
+        "font": {
+          "size": 50
+        }
+      },
+      "filters": []
+    },
+    {
+      "name": "scn_Joint Choirs: Wasser des Lebens/O Living Water – Rosalie Vissing",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          {
+            "name": "txt_Joint Choirs: Wasser des Lebens/O Living Water – Rosalie Vissing",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "txt_Joint Choirs: Wasser des Lebens/O Living Water – Rosalie Vissing",
+      "id": "text_gdiplus",
+      "settings": {
+        "text": " Joint Choirs: Wasser des Lebens/O Living Water – Rosalie Vissing ",
+        "align": "center",
+        "color": 4278190080,
+        "bk_color": 4294967295,
+        "bk_opacity": 75,
+        "font": {
+          "size": 50
+        }
+      },
+      "filters": []
+    },
+    {
+      "name": "scn_Confession and Forgiveness\nP: O God of compassion,\nC: We come before you with our brokenness and our wounds for all to see. We try to do good, but sometimes fail. We choose to do evil, and sometimes succeed. Keep your promise to forgive us. Without you, we are lost in our brokenness.",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          {
+            "name": "txt_Confession and Forgiveness\nP: O God of compassion,\nC: We come before you with our brokenness and our wounds for all to see. We try to do good, but sometimes fail. We choose to do evil, and sometimes succeed. Keep your promise to forgive us. Without you, we are lost in our brokenness.",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 20.0,
+              "y": 20.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "txt_Confession and Forgiveness\nP: O God of compassion,\nC: We come before you with our brokenness and our wounds for all to see. We try to do good, but sometimes fail. We choose to do evil, and sometimes succeed. Keep your promise to forgive us. Without you, we are lost in our brokenness.",
+      "id": "text_gdiplus",
+      "settings": {
+        "text": " Confession and Forgiveness \n P: O God of compassion, \n C: We come before you with our brokenness \n and our wounds for all to see. We try to \n do good, but sometimes fail. We choose to \n do evil, and sometimes succeed. Keep your \n promise to forgive us. Without you, we \n are lost in our brokenness. ",
+        "align": "left",
+        "color": 4278190080,
+        "bk_color": 4294967295,
+        "bk_opacity": 75,
+        "font": {
+          "size": 50
+        }
+      },
+      "filters": []
+    },
+    {
+      "name": "scn_Kyrie: I Desire Mercy (found in your insert)",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "scn_Assurance of Forgiveness",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "scn_Gloria: Oxyrhynchus Hymn (found in your insert)",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "scn_Family Time – Blessing of the Backpacks and Briefcases",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "scn_German Reading: Exodus 16:9-15 9 Then Moses said to Aaron, “Say to the whole congregation of the Israelites: ‘Draw near to the Lord, for he has heard your complaining.’ ” 10 And as Aaron spoke to the whole congregation of the Israelites, they looked toward the wilderness, and the glory of the Lord appeared in the cloud. 11 The Lord spoke to Moses, 12 “I have heard the complaining of the Israelites; say to them, ‘At twilight you shall eat meat, and in the morning you shall have your fill of bread; then you shall know that I am the Lord your God.’ ” 13 In the evening quails came up and covered the camp, and in the morning there was a layer of dew around the camp. 14 When the layer of dew lifted, there on the surface of the wilderness was a fine flaky substance, as fine as frost on the ground. 15 When the Israelites saw it, they said to one another, “What is it?” For they did not know what it was. Moses said to them, “It is the bread that the Lord has given you to eat.",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          {
+            "name": "txt_German Reading: Exodus 16:9-15 9 Then Moses said to Aaron, “Say to the whole congregation of the Israelites: ‘Draw near to the Lord, for he has heard your complaining.’ ” 10 And as Aaron spoke to the whole congregation of the Israelites, they looked toward the wilderness, and the glory of the Lord appeared in the cloud. 11 The Lord spoke to Moses, 12 “I have heard the complaining of the Israelites; say to them, ‘At twilight you shall eat meat, and in the morning you shall have your fill of bread; then you shall know that I am the Lord your God.’ ” 13 In the evening quails came up and covered the camp, and in the morning there was a layer of dew around the camp. 14 When the layer of dew lifted, there on the surface of the wilderness was a fine flaky substance, as fine as frost on the ground. 15 When the Israelites saw it, they said to one another, “What is it?” For they did not know what it was. Moses said to them, “It is the bread that the Lord has given you to eat.",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 20.0,
+              "y": 20.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "txt_German Reading: Exodus 16:9-15 9 Then Moses said to Aaron, “Say to the whole congregation of the Israelites: ‘Draw near to the Lord, for he has heard your complaining.’ ” 10 And as Aaron spoke to the whole congregation of the Israelites, they looked toward the wilderness, and the glory of the Lord appeared in the cloud. 11 The Lord spoke to Moses, 12 “I have heard the complaining of the Israelites; say to them, ‘At twilight you shall eat meat, and in the morning you shall have your fill of bread; then you shall know that I am the Lord your God.’ ” 13 In the evening quails came up and covered the camp, and in the morning there was a layer of dew around the camp. 14 When the layer of dew lifted, there on the surface of the wilderness was a fine flaky substance, as fine as frost on the ground. 15 When the Israelites saw it, they said to one another, “What is it?” For they did not know what it was. Moses said to them, “It is the bread that the Lord has given you to eat.",
+      "id": "text_gdiplus",
+      "settings": {
+        "text": " German Reading: Exodus 16:9-15 9 Then \n Moses said to Aaron, “Say to the whole \n congregation of the Israelites: ‘Draw \n near to the Lord, for he has heard your \n complaining.’ ” 10 And as Aaron spoke \n to the whole congregation of the \n Israelites, they looked toward the \n wilderness, and the glory of the Lord \n appeared in the cloud. 11 The Lord spoke \n to Moses, 12 “I have heard the \n complaining of the Israelites; say to \n them, ‘At twilight you shall eat meat, \n and in the morning you shall have your \n fill of bread; then you shall know that I \n am the Lord your God.’ ” 13 In the \n evening quails came up and covered the \n camp, and in the morning there was a \n layer of dew around the camp. 14 When the \n layer of dew lifted, there on the surface \n of the wilderness was a fine flaky \n substance, as fine as frost on the \n ground. 15 When the Israelites saw it, \n they said to one another, “What is \n it?” For they did not know what it was. \n Moses said to them, “It is the bread \n that the Lord has given you to eat. ",
+        "align": "left",
+        "color": 4278190080,
+        "bk_color": 4294967295,
+        "bk_opacity": 75,
+        "font": {
+          "size": 50
+        }
+      },
+      "filters": [
+        {
+          "name": "Scroll",
+          "id": "scroll_filter",
+          "settings": {
+            "speed_y": 10.0,
+            "loop": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "scn_Psalm: #836, Joyful, Joyful We Adore Thee",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "scn_English Reading: Philipper 1:27-30 27 Nur führt euer Leben würdig des Evangeliums von Christus, damit ich, ob ich komme und euch sehe oder abwesend bin, von euch höre, dass ihr fest steht in einem Geist und einmütig miteinander kämpft für den Glauben des Evangeliums 28 und euch in keiner Weise einschüchtern lasst von den Widersachern, was für sie ein Anzeichen des Verderbens, für euch aber der Errettung ist, und zwar von Gott. 29 Denn euch wurde, was Christus betrifft, die Gnade verliehen, nicht nur an ihn zu glauben, sondern auch um seinetwillen zu leiden,30 sodass ihr denselben Kampf habt, den ihr an mir gesehen habt und jetzt von mir hört.",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          {
+            "name": "txt_English Reading: Philipper 1:27-30 27 Nur führt euer Leben würdig des Evangeliums von Christus, damit ich, ob ich komme und euch sehe oder abwesend bin, von euch höre, dass ihr fest steht in einem Geist und einmütig miteinander kämpft für den Glauben des Evangeliums 28 und euch in keiner Weise einschüchtern lasst von den Widersachern, was für sie ein Anzeichen des Verderbens, für euch aber der Errettung ist, und zwar von Gott. 29 Denn euch wurde, was Christus betrifft, die Gnade verliehen, nicht nur an ihn zu glauben, sondern auch um seinetwillen zu leiden,30 sodass ihr denselben Kampf habt, den ihr an mir gesehen habt und jetzt von mir hört.",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 20.0,
+              "y": 20.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "txt_English Reading: Philipper 1:27-30 27 Nur führt euer Leben würdig des Evangeliums von Christus, damit ich, ob ich komme und euch sehe oder abwesend bin, von euch höre, dass ihr fest steht in einem Geist und einmütig miteinander kämpft für den Glauben des Evangeliums 28 und euch in keiner Weise einschüchtern lasst von den Widersachern, was für sie ein Anzeichen des Verderbens, für euch aber der Errettung ist, und zwar von Gott. 29 Denn euch wurde, was Christus betrifft, die Gnade verliehen, nicht nur an ihn zu glauben, sondern auch um seinetwillen zu leiden,30 sodass ihr denselben Kampf habt, den ihr an mir gesehen habt und jetzt von mir hört.",
+      "id": "text_gdiplus",
+      "settings": {
+        "text": " English Reading: Philipper 1:27-30 27 Nur \n führt euer Leben würdig des Evangeliums \n von Christus, damit ich, ob ich komme und \n euch sehe oder abwesend bin, von euch \n höre, dass ihr fest steht in einem Geist \n und einmütig miteinander kämpft für \n den Glauben des Evangeliums 28 und euch \n in keiner Weise einschüchtern lasst von \n den Widersachern, was für sie ein \n Anzeichen des Verderbens, für euch aber \n der Errettung ist, und zwar von Gott. 29 \n Denn euch wurde, was Christus betrifft, \n die Gnade verliehen, nicht nur an ihn zu \n glauben, sondern auch um seinetwillen zu \n leiden,30 sodass ihr denselben Kampf \n habt, den ihr an mir gesehen habt und \n jetzt von mir hört. ",
+        "align": "left",
+        "color": 4278190080,
+        "bk_color": 4294967295,
+        "bk_opacity": 75,
+        "font": {
+          "size": 50
+        }
+      },
+      "filters": []
+    },
+    {
+      "name": "scn_Gospel Acclamation: The Living Word (found in your insert)",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "scn_P: The Gospel according to Matthew 20:1-16\nC: Glory to you, O Lord",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          {
+            "name": "txt_P: The Gospel according to Matthew 20:1-16\nC: Glory to you, O Lord",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "txt_P: The Gospel according to Matthew 20:1-16\nC: Glory to you, O Lord",
+      "id": "text_gdiplus",
+      "settings": {
+        "text": " P: The Gospel according to Matthew 20:1-16 \n C: Glory to you, O Lord ",
+        "align": "center",
+        "color": 4278190080,
+        "bk_color": 4294967295,
+        "bk_opacity": 75,
+        "font": {
+          "size": 50
+        }
+      },
+      "filters": []
+    },
+    {
+      "name": "scn_“For the kingdom of heaven is like a landowner who went out early in the morning to hire laborers for his vineyard. 2 After agreeing with the laborers for a denarius for the day, he sent them into his vineyard. 3 When he went out about nine o’clock, he saw others standing idle in the marketplace, 4 and he said to them, ‘You also go into the vineyard, and I will pay you whatever is right.’ So they went. 5 When he went out again about noon and about three o’clock, he did the same. 6 And about five o’clock he went out and found others standing around, and he said to them, ‘Why are you standing here idle all day?’ 7 They said to him, ‘Because no one has hired us.’ He said to them, ‘You also go into the vineyard.’ 8 When evening came, the owner of the vineyard said to his manager, ‘Call the laborers and give them their pay, beginning with the last and then going to the first.’ 9 When those hired about five o’clock came, each of them received a denarius. 10 Now when the first came, they thought they would receive more; but each of them also received a denarius. 11 And when they received it, they grumbled against the landowner, 12 saying, ‘These last worked only one hour, and you have made them equal to us who have borne the burden of the day and the scorching heat.’ 13 But he replied to one of them, ‘Friend, I am doing you no wrong; did you not agree with me for a denarius? 14 Take what belongs to you and go; I choose to give to this last the same as I give to you. 15 Am I not allowed to do what I choose with what belongs to me? Or are you envious because I am generous?’ 16 So the last will be first, and the first will be last.”",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          {
+            "name": "txt_“For the kingdom of heaven is like a landowner who went out early in the morning to hire laborers for his vineyard. 2 After agreeing with the laborers for a denarius for the day, he sent them into his vineyard. 3 When he went out about nine o’clock, he saw others standing idle in the marketplace, 4 and he said to them, ‘You also go into the vineyard, and I will pay you whatever is right.’ So they went. 5 When he went out again about noon and about three o’clock, he did the same. 6 And about five o’clock he went out and found others standing around, and he said to them, ‘Why are you standing here idle all day?’ 7 They said to him, ‘Because no one has hired us.’ He said to them, ‘You also go into the vineyard.’ 8 When evening came, the owner of the vineyard said to his manager, ‘Call the laborers and give them their pay, beginning with the last and then going to the first.’ 9 When those hired about five o’clock came, each of them received a denarius. 10 Now when the first came, they thought they would receive more; but each of them also received a denarius. 11 And when they received it, they grumbled against the landowner, 12 saying, ‘These last worked only one hour, and you have made them equal to us who have borne the burden of the day and the scorching heat.’ 13 But he replied to one of them, ‘Friend, I am doing you no wrong; did you not agree with me for a denarius? 14 Take what belongs to you and go; I choose to give to this last the same as I give to you. 15 Am I not allowed to do what I choose with what belongs to me? Or are you envious because I am generous?’ 16 So the last will be first, and the first will be last.”",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 20.0,
+              "y": 20.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "txt_“For the kingdom of heaven is like a landowner who went out early in the morning to hire laborers for his vineyard. 2 After agreeing with the laborers for a denarius for the day, he sent them into his vineyard. 3 When he went out about nine o’clock, he saw others standing idle in the marketplace, 4 and he said to them, ‘You also go into the vineyard, and I will pay you whatever is right.’ So they went. 5 When he went out again about noon and about three o’clock, he did the same. 6 And about five o’clock he went out and found others standing around, and he said to them, ‘Why are you standing here idle all day?’ 7 They said to him, ‘Because no one has hired us.’ He said to them, ‘You also go into the vineyard.’ 8 When evening came, the owner of the vineyard said to his manager, ‘Call the laborers and give them their pay, beginning with the last and then going to the first.’ 9 When those hired about five o’clock came, each of them received a denarius. 10 Now when the first came, they thought they would receive more; but each of them also received a denarius. 11 And when they received it, they grumbled against the landowner, 12 saying, ‘These last worked only one hour, and you have made them equal to us who have borne the burden of the day and the scorching heat.’ 13 But he replied to one of them, ‘Friend, I am doing you no wrong; did you not agree with me for a denarius? 14 Take what belongs to you and go; I choose to give to this last the same as I give to you. 15 Am I not allowed to do what I choose with what belongs to me? Or are you envious because I am generous?’ 16 So the last will be first, and the first will be last.”",
+      "id": "text_gdiplus",
+      "settings": {
+        "text": " “For the kingdom of heaven is like a \n landowner who went out early in the \n morning to hire laborers for his \n vineyard. 2 After agreeing with the \n laborers for a denarius for the day, he \n sent them into his vineyard. 3 When he \n went out about nine o’clock, he saw \n others standing idle in the marketplace, \n 4 and he said to them, ‘You also go \n into the vineyard, and I will pay you \n whatever is right.’ So they went. 5 \n When he went out again about noon and \n about three o’clock, he did the same. 6 \n And about five o’clock he went out and \n found others standing around, and he said \n to them, ‘Why are you standing here \n idle all day?’ 7 They said to him, \n ‘Because no one has hired us.’ He \n said to them, ‘You also go into the \n vineyard.’ 8 When evening came, the \n owner of the vineyard said to his \n manager, ‘Call the laborers and give \n them their pay, beginning with the last \n and then going to the first.’ 9 When \n those hired about five o’clock came, \n each of them received a denarius. 10 Now \n when the first came, they thought they \n would receive more; but each of them also \n received a denarius. 11 And when they \n received it, they grumbled against the \n landowner, 12 saying, ‘These last \n worked only one hour, and you have made \n them equal to us who have borne the \n burden of the day and the scorching \n heat.’ 13 But he replied to one of \n them, ‘Friend, I am doing you no wrong; \n did you not agree with me for a denarius? \n 14 Take what belongs to you and go; I \n choose to give to this last the same as I \n give to you. 15 Am I not allowed to do \n what I choose with what belongs to me? Or \n are you envious because I am generous?’ \n 16 So the last will be first, and the \n first will be last.” ",
+        "align": "left",
+        "color": 4278190080,
+        "bk_color": 4294967295,
+        "bk_opacity": 75,
+        "font": {
+          "size": 50
+        }
+      },
+      "filters": [
+        {
+          "name": "Scroll",
+          "id": "scroll_filter",
+          "settings": {
+            "speed_y": 10.0,
+            "loop": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "scn_P: The gospel of the Lord\nC: Praise to you, O Christ",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          {
+            "name": "txt_P: The gospel of the Lord\nC: Praise to you, O Christ",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "txt_P: The gospel of the Lord\nC: Praise to you, O Christ",
+      "id": "text_gdiplus",
+      "settings": {
+        "text": " P: The gospel of the Lord \n C: Praise to you, O Christ ",
+        "align": "center",
+        "color": 4278190080,
+        "bk_color": 4294967295,
+        "bk_opacity": 75,
+        "font": {
+          "size": 50
+        }
+      },
+      "filters": []
+    },
+    {
+      "name": "scn_Sermon",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "scn_Song of the Day: #735, Mothering God, You Gave Me Birth",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "scn_Offertory Prayer",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "scn_Apostle’s Creed (ELW, p. 127)\nI believe in God,\n                the Father almighty,\n                Creator of heaven and earth,\n                and in Jesus Christ, his only Son, our Lord,\n                who was conceived by the Holy Spirit,\n                born of the Virgin Mary,\n                suffered under Pontius Pilate,\n                was crucified, died and was buried;\n                he descended into hell;\n                on the third day he rose again from the dead;\n                he ascended into heaven,\n                and is seated at the right hand of God the Father almighty;\n                from there he will come to judge the living and the dead.\n                I believe in the Holy Spirit,\n                the holy catholic Church,\n                the communion of saints,\n                the forgiveness of sins,\n                the resurrection of the body,\n                and life everlasting.\n                Amen.",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          {
+            "name": "txt_Apostle’s Creed (ELW, p. 127)\nI believe in God,\n                the Father almighty,\n                Creator of heaven and earth,\n                and in Jesus Christ, his only Son, our Lord,\n                who was conceived by the Holy Spirit,\n                born of the Virgin Mary,\n                suffered under Pontius Pilate,\n                was crucified, died and was buried;\n                he descended into hell;\n                on the third day he rose again from the dead;\n                he ascended into heaven,\n                and is seated at the right hand of God the Father almighty;\n                from there he will come to judge the living and the dead.\n                I believe in the Holy Spirit,\n                the holy catholic Church,\n                the communion of saints,\n                the forgiveness of sins,\n                the resurrection of the body,\n                and life everlasting.\n                Amen.",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 20.0,
+              "y": 20.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "txt_Apostle’s Creed (ELW, p. 127)\nI believe in God,\n                the Father almighty,\n                Creator of heaven and earth,\n                and in Jesus Christ, his only Son, our Lord,\n                who was conceived by the Holy Spirit,\n                born of the Virgin Mary,\n                suffered under Pontius Pilate,\n                was crucified, died and was buried;\n                he descended into hell;\n                on the third day he rose again from the dead;\n                he ascended into heaven,\n                and is seated at the right hand of God the Father almighty;\n                from there he will come to judge the living and the dead.\n                I believe in the Holy Spirit,\n                the holy catholic Church,\n                the communion of saints,\n                the forgiveness of sins,\n                the resurrection of the body,\n                and life everlasting.\n                Amen.",
+      "id": "text_gdiplus",
+      "settings": {
+        "text": " Apostle’s Creed (ELW, p. 127) \n I believe in God, \n the Father almighty, \n Creator of heaven and earth, \n and in Jesus Christ, his only Son, our \n Lord, \n who was conceived by the Holy Spirit, \n born of the Virgin Mary, \n suffered under Pontius Pilate, \n was crucified, died and was buried; \n he descended into hell; \n on the third day he rose again from the \n dead; \n he ascended into heaven, \n and is seated at the right hand of God \n the Father almighty; \n from there he will come to judge the \n living and the dead. \n I believe in the Holy Spirit, \n the holy catholic Church, \n the communion of saints, \n the forgiveness of sins, \n the resurrection of the body, \n and life everlasting. \n Amen. ",
+        "align": "left",
+        "color": 4278190080,
+        "bk_color": 4294967295,
+        "bk_opacity": 75,
+        "font": {
+          "size": 50
+        }
+      },
+      "filters": [
+        {
+          "name": "Scroll",
+          "id": "scroll_filter",
+          "settings": {
+            "speed_y": 10.0,
+            "loop": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "scn_P: Creator God\nC: Bring us new life",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          {
+            "name": "txt_P: Creator God\nC: Bring us new life",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "txt_P: Creator God\nC: Bring us new life",
+      "id": "text_gdiplus",
+      "settings": {
+        "text": " P: Creator God \n C: Bring us new life ",
+        "align": "center",
+        "color": 4278190080,
+        "bk_color": 4294967295,
+        "bk_opacity": 75,
+        "font": {
+          "size": 50
+        }
+      },
+      "filters": []
+    },
+    {
+      "name": "scn_Sharing of the Peace",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "scn_Communion\nP: \tThe Lord be with you\nC: \tAnd also with you.\nP: \tLift up your hearts.\nC: \tWe lift them to the Lord.\nP: \tLet us give our thanks and praise to the Lord our God.\nC: \tIt is right to give our thanks and praise.",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          {
+            "name": "txt_Communion\nP: \tThe Lord be with you\nC: \tAnd also with you.\nP: \tLift up your hearts.\nC: \tWe lift them to the Lord.\nP: \tLet us give our thanks and praise to the Lord our God.\nC: \tIt is right to give our thanks and praise.",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 20.0,
+              "y": 20.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "txt_Communion\nP: \tThe Lord be with you\nC: \tAnd also with you.\nP: \tLift up your hearts.\nC: \tWe lift them to the Lord.\nP: \tLet us give our thanks and praise to the Lord our God.\nC: \tIt is right to give our thanks and praise.",
+      "id": "text_gdiplus",
+      "settings": {
+        "text": " Communion \n P: The Lord be with you \n C: And also with you. \n P: Lift up your hearts. \n C: We lift them to the Lord. \n P: Let us give our thanks and praise to \n the Lord our God. \n C: It is right to give our thanks and \n praise. ",
+        "align": "left",
+        "color": 4278190080,
+        "bk_color": 4294967295,
+        "bk_opacity": 75,
+        "font": {
+          "size": 50
+        }
+      },
+      "filters": []
+    },
+    {
+      "name": "scn_Sanctus\nP:\tWe have testified that this mystery of salvation found in Jesus Christ is for all, when we say . . .\nC: \tChrist has died, Christ is risen, Christ will come again.",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          {
+            "name": "txt_Sanctus\nP:\tWe have testified that this mystery of salvation found in Jesus Christ is for all, when we say . . .\nC: \tChrist has died, Christ is risen, Christ will come again.",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 20.0,
+              "y": 20.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "txt_Sanctus\nP:\tWe have testified that this mystery of salvation found in Jesus Christ is for all, when we say . . .\nC: \tChrist has died, Christ is risen, Christ will come again.",
+      "id": "text_gdiplus",
+      "settings": {
+        "text": " Sanctus \n P: We have testified that this mystery of \n salvation found in Jesus Christ is for \n all, when we say . . . \n C: Christ has died, Christ is risen, \n Christ will come again. ",
+        "align": "left",
+        "color": 4278190080,
+        "bk_color": 4294967295,
+        "bk_opacity": 75,
+        "font": {
+          "size": 50
+        }
+      },
+      "filters": []
+    },
+    {
+      "name": "scn_Lord’s Prayer\nOur Father, who art in heaven,\n                hallowed be thy Name,\n                thy kingdom come,\n                thy will be done,\n                on earth as it is in heaven.\n                Give us this day our daily bread.\n                And forgive us our trespasses,\n                as we forgive those\n                who trespass against us.\n                And lead us not into temptation,\n                but deliver us from evil.\n                For thine is the kingdom,\n                and the power, and the glory,\n                for ever and ever.\n                Amen.",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          {
+            "name": "txt_Lord’s Prayer\nOur Father, who art in heaven,\n                hallowed be thy Name,\n                thy kingdom come,\n                thy will be done,\n                on earth as it is in heaven.\n                Give us this day our daily bread.\n                And forgive us our trespasses,\n                as we forgive those\n                who trespass against us.\n                And lead us not into temptation,\n                but deliver us from evil.\n                For thine is the kingdom,\n                and the power, and the glory,\n                for ever and ever.\n                Amen.",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 20.0,
+              "y": 20.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "txt_Lord’s Prayer\nOur Father, who art in heaven,\n                hallowed be thy Name,\n                thy kingdom come,\n                thy will be done,\n                on earth as it is in heaven.\n                Give us this day our daily bread.\n                And forgive us our trespasses,\n                as we forgive those\n                who trespass against us.\n                And lead us not into temptation,\n                but deliver us from evil.\n                For thine is the kingdom,\n                and the power, and the glory,\n                for ever and ever.\n                Amen.",
+      "id": "text_gdiplus",
+      "settings": {
+        "text": " Lord’s Prayer \n Our Father, who art in heaven, \n hallowed be thy Name, \n thy kingdom come, \n thy will be done, \n on earth as it is in heaven. \n Give us this day our daily bread. \n And forgive us our trespasses, \n as we forgive those \n who trespass against us. \n And lead us not into temptation, \n but deliver us from evil. \n For thine is the kingdom, \n and the power, and the glory, \n for ever and ever. \n Amen. ",
+        "align": "left",
+        "color": 4278190080,
+        "bk_color": 4294967295,
+        "bk_opacity": 75,
+        "font": {
+          "size": 50
+        }
+      },
+      "filters": []
+    },
+    {
+      "name": "scn_Communion Songs: English Choir: Around his Table – Judy Hunnicutt",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "scn_#462, Now We Join in Celebration",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "scn_Installation of Pr. David Melax",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "scn_Announcements",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "scn_Blessing",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "scn_Sending Song: #823, Praise the Lord! O Heavens",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "scn_Dismissal\nP: God is. Love does.\tC: In the footsteps of grace, we become. And we follow.",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          {
+            "name": "txt_Dismissal\nP: God is. Love does.\tC: In the footsteps of grace, we become. And we follow.",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 20.0,
+              "y": 20.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "txt_Dismissal\nP: God is. Love does.\tC: In the footsteps of grace, we become. And we follow.",
+      "id": "text_gdiplus",
+      "settings": {
+        "text": " Dismissal \n P: God is. Love does. C: In the footsteps \n of grace, we become. And we follow. ",
+        "align": "left",
+        "color": 4278190080,
+        "bk_color": 4294967295,
+        "bk_opacity": 75,
+        "font": {
+          "size": 50
+        }
+      },
+      "filters": []
+    },
+    {
+      "name": "scn_Thank you to everyone who helped with our service this morning:\nPastor & Preacher: Pastor Erin Thomas; Pianist/Organist: Cherie Larson; Joint Choir Director: Agnes Melax; Ushers & Readers: Beverly Kavanaugh, LeDressay Family;\nTech Team: Tobias Mundel; Bulletins: Sorin Tomuta.",
+      "id": "scene",
+      "settings": {
+        "items": [
+          {
+            "name": "Camera",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          {
+            "name": "txt_Thank you to everyone who helped with our service this morning:\nPastor & Preacher: Pastor Erin Thomas; Pianist/Organist: Cherie Larson; Joint Choir Director: Agnes Melax; Ushers & Readers: Beverly Kavanaugh, LeDressay Family;\nTech Team: Tobias Mundel; Bulletins: Sorin Tomuta.",
+            "visible": true,
+            "scale_ref": {
+              "x": 1920.0,
+              "y": 1080.0
+            },
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "txt_Thank you to everyone who helped with our service this morning:\nPastor & Preacher: Pastor Erin Thomas; Pianist/Organist: Cherie Larson; Joint Choir Director: Agnes Melax; Ushers & Readers: Beverly Kavanaugh, LeDressay Family;\nTech Team: Tobias Mundel; Bulletins: Sorin Tomuta.",
+      "id": "text_gdiplus",
+      "settings": {
+        "text": " Thank you to everyone who helped with our service this morning: \n Pastor & Preacher: Pastor Erin Thomas; Pianist/Organist: Cherie Larson; \n Joint Choir Director: Agnes Melax; Ushers & Readers: Beverly Kavanaugh, \n LeDressay Family; \n Tech Team: Tobias Mundel; Bulletins: Sorin Tomuta. ",
+        "align": "center",
+        "color": 4278190080,
+        "bk_color": 4294967295,
+        "bk_opacity": 75,
+        "font": {
+          "size": 50
+        }
+      },
+      "filters": []
+    }
+  ]
+}
